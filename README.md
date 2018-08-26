@@ -17,3 +17,4 @@ sudo apt-get install mesa-common-dev // install OpenGL libraries
 
 sudo apt-get install libglu1-mesa-dev -y // sometime you need it
 
+![printscreen](pict.png)
